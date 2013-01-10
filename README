@@ -1,15 +1,21 @@
-uTorrent Uploader is a script to allow the user to upload a single torrent or a directory that contains multiple torrents to the uTorrent server.
+uTorrent Uploader
+=================
 
-This script was created because I purchased a Buffalo Linkstation Pro Duo 6TB NAS, that has a built in torrent client.  Unfortunatley the client
-does not allow more than one torrent uploaded at a time.  I tend to add a lot of torrents in one go so to do this would take a condierable amount
-of time through their web interface and so this script was created.
+uTorrent Uploader is a script to allow the user to upload a single torrent or a directory that 
+contains multiple torrents to the uTorrent server.
 
-I am putting it on Git as I was unable to find a working piece of code on the net to accomplish the task so someone else may find it useful.
+This script was created because I purchased a Buffalo Linkstation Pro Duo 6TB NAS, that has a 
+built in torrent client.  Unfortunatley the client does not allow more than one torrent uploaded 
+at a time.  I tend to add a lot of torrents in one go so to do this would take a condierable 
+amount of time through their web interface and so this script was created.
+
+I am putting it on Git as I was unable to find a working piece of code on the net to accomplish 
+the task so someone else may find it useful.
 
 Usage:
 ------
 
-g0r:uTorrent_Uploader dusty$ python upload.py --help
+eg0r:uTorrent_Uploader dusty$ python upload.py --help
 Usage: upload.py [options] arg1
 
 Options:
